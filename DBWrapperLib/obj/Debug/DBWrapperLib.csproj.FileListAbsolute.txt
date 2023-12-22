@@ -1,0 +1,10 @@
+D:\Projects\CSharp\DBShopSample\DBWrapperLib\bin\Debug\DBWrapperLib.dll
+D:\Projects\CSharp\DBShopSample\DBWrapperLib\bin\Debug\DBWrapperLib.pdb
+D:\Projects\CSharp\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.dll
+D:\Projects\CSharp\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.pdb
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\bin\Debug\DBWrapperLib.dll
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\bin\Debug\DBWrapperLib.pdb
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.dll
+C:\Users\Admin\Desktop\DBShopSample\DBWrapperLib\obj\Debug\DBWrapperLib.pdb

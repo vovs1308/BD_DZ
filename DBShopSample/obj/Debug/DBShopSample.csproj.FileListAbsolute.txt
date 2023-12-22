@@ -1,0 +1,39 @@
+D:\Projects\CSharp\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe.config
+D:\Projects\CSharp\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe
+D:\Projects\CSharp\DBShopSample\DBShopSample\bin\Debug\DBShopSample.pdb
+D:\Projects\CSharp\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.dll
+D:\Projects\CSharp\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.pdb
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Form1.resources
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Properties.Resources.resources
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.GenerateResource.Cache
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.exe
+D:\Projects\CSharp\DBShopSample\DBShopSample\obj\Debug\DBShopSample.pdb
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe.config
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\bin\Debug\DBShopSample.pdb
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.dll
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.pdb
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Form1.resources
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Properties.Resources.resources
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.CopyComplete
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.exe
+C:\Users\Admin\Desktop\DBShopSample\DBShopSample\obj\Debug\DBShopSample.pdb
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe.config
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\bin\Debug\DBShopSample.exe
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\bin\Debug\DBShopSample.pdb
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.dll
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\bin\Debug\DBWrapperLib.pdb
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Form1.resources
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.csproj.CopyComplete
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.exe
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\База данніх 5 семестр\ДЗ 5 семестр\DBShopSample\DBShopSample\obj\Debug\DBShopSample.pdb
